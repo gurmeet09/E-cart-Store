@@ -1,0 +1,15 @@
+.Productcard {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.47);
+    width: 70%;
+    text-align: -webkit-center;
+    margin: 5% 0% 0% 16%;
+    padding: 9px;
+    border-radius: 8px;
+    margin-top: 40px;
+}
+.bg{
+    background: azure;
+}
+.logo{
+    height: 30px;
+}

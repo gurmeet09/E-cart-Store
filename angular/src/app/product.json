@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "productImage":"",
+            "productName":"Jiofi",
+            "price":"Rs.999"
+        },
+        {
+            "productImage":"",
+            "productName":"Mobile",
+            "price":"Rs.9999"
+        },
+        {
+            "productImage":"",
+            "productName":"Laptop",
+            "price":"Rs.45999"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+<!-- <p>
+  {{productName}}
+</p> -->
+  <div *ngFor="let item of productdescription">
+    <div *ngIf="productName==item.productName">
+        <div class="Productcard">
+            <h2>{{item.productName}}</h2>
+            <img src="{{item.productImage}}" class="img" />
+            <p class="text">{{item.description}}</p>
+        </div>
+    </div>
+</div>
+  
